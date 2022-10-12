@@ -84,7 +84,7 @@
     "cpr": "^3.0.1",
     "cspell": "^3.1.3",
     "jasmine-core": "~2.8.0",
-    "jasmine-reporters": "^2.2.1",
+    "jasmine-reporters": "^2.5.0",
     "jasmine-spec-reporter": "~4.2.1",
     "jasminewd2": "^2.2.0",
     "karma": "^4.0.0",
